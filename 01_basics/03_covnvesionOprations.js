@@ -35,4 +35,4 @@ console.log(1 + "2")
 console.log("1" + 2 + 1)
 console.log(1 + 1 + "2")
 
-// whatever we declare first is will return upon that => str or num
+// whatever we asiign first is will return upon that => str or num
