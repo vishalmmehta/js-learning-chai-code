@@ -20,4 +20,19 @@ console.log(booleanisLogin);
 // "" => false
 //"vish" => true
 
+// ******************  Conversion with operations ***************** 
 
+let str1 = "vishal"
+let str2 =" mehta"
+
+let str3 = str1 + str2
+
+console.log(str3);
+
+
+console.log("1" + 2)
+console.log(1 + "2")
+console.log("1" + 2 + 1)
+console.log(1 + 1 + "2")
+
+// whatever we declare first is will return upon that => str or num
