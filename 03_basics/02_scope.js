@@ -1,34 +1,34 @@
 // scope
 
-if(true){
-let a = 10
-const b =20
-var c =30
+// if(true){
+// let a = 10
+// const b =20
+// var c =30
 
-}
+// }
 
-// console.log(a);
-// console.log(b);
-console.log(c);
+// // console.log(a);
+// // console.log(b);
+// console.log(c);
 
-function one(){
+// function one(){
 
-    const username = "vishal"
+//     const username = "vishal"
 
-    function two(){
-        let website = "vishal.com"
-        console.log(username);  
-    }
+//     function two(){
+//         let website = "vishal.com"
+//         console.log(username);  
+//     }
 
-two()
+// two()
   
-}
+// }
 
-one()
+// one()
 
 function addone(num){
-    return num+1
+    return num + 1
 }
 
-console.log|(addone(5))
+console.log(addone(6));
 
