@@ -20,3 +20,30 @@ if(2 === "2"){                                          //=== check condition as
 else{
     console.log("strickly check");
 }
+
+let score = 100
+
+if(score < 500) {
+    console.log ("score is less than 500")
+}
+else if (score > 500){
+    console.log("score is grater than 500 ")
+}
+
+else if (score > 700){
+    console.log("score is grater than 700 ")
+}
+
+else{
+    console.log("no balance");
+}
+
+let debitcard = true
+let userlogoin = true
+
+if(debitcard = true && userlogin = true){
+    console.log("user logi");
+}
+else{
+    console.log("user not login");
+}
